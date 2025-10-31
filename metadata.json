@@ -1,0 +1,5 @@
+{
+  "name": "AI LinkedIn Tech News Poster",
+  "description": "An automated workflow to fetch the latest tech news, generate cinematic images and engaging captions with AI, and preview them for posting on LinkedIn.",
+  "requestFramePermissions": []
+}
